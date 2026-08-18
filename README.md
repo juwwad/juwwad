@@ -1,9 +1,132 @@
-## Hi there 👋
+<div align="center">
 
-- 🔭 I’m currently working on MERN Stack with React.js & Next.js.
-- 🌱 I’m currently learning Full Stack Web Development and AI/ML.
-- 👯 I’m looking to collaborate on Web Development Projects to enhance my skills and excell in my field
-- 🤔 I’m looking for help with AI/ML and app-based programming.
-- 💬 Ask me about Web Development, JS and its frameworks.
-- 📫 How to reach me: https://linkedin.com/in/juwwad
-- ⚡ Fun fact: I love playing chess, learning philosophy and I'm a passionate reader.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=900&color=2EE6A6&center=true&vCenter=true&width=680&lines=Give+me+the+problem.+I+ship+the+system.;Full-stack+engineer+%E2%80%94+Peshawar%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+AI+agents%2C+APIs%2C+RAGs%2C+MCPs;Founder+%40+Axiom+Inc.;Currently+debugging+a+Supabase+RLS+policy..." alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+```bash
+juwwad@peshawar ~ % whoami --verbose
+```
+
+```yaml
+name:      Jawad Ahmad
+role:      Full-Stack Developer, Founder @ Axiom Inc.
+based_in:  Peshawar, Khyber Pakhtunkhwa, Pakistan  🇵🇰
+stack:     React · Next.js · TypeScript · Node.js · Supabase · Postgres
+mission:   ship real tools for real people — not another metro-first app
+status:    finishing my final-year project, then back to production code
+uptime:    3+ years | 15+ ships | 150+ ⭐ scattered across GitHub
+```
+
+<br/>
+
+<div align="center">
+
+### 📡 live feed — what's actually running right now
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌊 [Ailaan](https://github.com/juwwad/ailaan)**
+AI flood alert system for KPK. Turns raw forecasting data into plain-language warnings — in **Pashto, Roman Pashto & English** — delivered where people already are: WhatsApp.
+`Next.js` `Google Flood API` `Gemini` `Node.js`
+
+**🔧 [MehnatKash](https://github.com/juwwad/mehnatkash)**
+My final-year project. A hyperlocal marketplace so electricians, plumbers and technicians in *non-metro* Pakistani cities can get found — no middleman, no metro-city bias.
+`React` `TypeScript` `Supabase` `RLS` `Realtime`
+
+</td>
+<td width="50%" valign="top">
+
+**💧 [AquaTrace](https://github.com/juwwad/aquatrace)**
+A Chrome extension that estimates the water footprint of your AI conversations — tracks ChatGPT, Gemini & Claude usage, renders it as a number you can't ignore.
+`JavaScript` `Chrome APIs` `Dev Tools`
+
+**🏪 B2B Wholesale Marketplace**
+Multi-tenant wholesale platform built for how Pakistani B2B trade actually works, not how a US SaaS template assumes it works.
+`React` `Vite` `Firebase` `Tailwind`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*Every project above shares one filter: does this help someone outside a metro area do their work or stay safe? If not, I'm probably not building it.*
+
+</div>
+
+<br/>
+
+```bash
+juwwad@peshawar ~ % cat philosophy.md
+```
+
+> I don't build for the demo. I build for the electrician in a city that no SaaS company
+> has ever run a customer interview in, and the family checking WhatsApp before a flood
+> warning reaches the news. Ship it, break it, fix it in prod, ship it again.
+
+<br/>
+
+<div align="center">
+
+### 🛠️ the toolbox
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,supabase,firebase,tailwind,figma,vercel,docker,git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 the receipts
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=juwwad&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=2EE6A6&icon_color=2EE6A6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juwwad&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=2EE6A6" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juwwad&theme=react&hide_border=true&background=0d1117&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6" />
+
+</div>
+
+<br/>
+
+```bash
+juwwad@peshawar ~ % tail -f current_status.log
+```
+
+```
+[BUILD]  Rebuilding ailaan.dev — no-scroll hero, glassmorphism, Next.js
+[DEFEND] Prepping viva for MehnatKash (final-year project)
+[DEPLOY] Founder mode @ Axiom Inc. — rebuilding dashboards, mentoring 4 engineers
+[LEARN]  AI agents, MCPs, RAG pipelines — betting the next decade runs on this
+[IDLE]   never — ask my GitHub contribution graph
+```
+
+<br/>
+
+<div align="center">
+
+### 📫 reach me before I reach you
+
+[![Portfolio](https://img.shields.io/badge/juwwad.me-2EE6A6?style=for-the-badge&logo=vercel&logoColor=black)](https://juwwad.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juwwad)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/juwwad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawad@enlightlab.org)
+
+<sub>Response time: 24–48 business hours. Unless it's a flood alert bug — then it's now.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=juwwad&style=for-the-badge&color=2EE6A6&label=profile+views" />
+</div>

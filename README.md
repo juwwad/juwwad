@@ -6,10 +6,6 @@
 
 <br/>
 
-```bash
-juwwad@peshawar ~ % whoami --verbose
-```
-
 ```yaml
 name:      Jawad Ahmad
 role:      Full-Stack Developer, Founder @ Axiom Inc.
@@ -24,48 +20,7 @@ uptime:    3+ years | 15+ ships | 150+ ⭐ scattered across GitHub
 
 <div align="center">
 
-### 📡 live feed — what's actually running right now
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🌊 [Ailaan](https://github.com/juwwad/ailaan)**
-AI flood alert system for KPK. Turns raw forecasting data into plain-language warnings — in **Pashto, Roman Pashto & English** — delivered where people already are: WhatsApp.
-`Next.js` `Google Flood API` `Gemini` `Node.js`
-
-**🔧 [MehnatKash](https://github.com/juwwad/mehnatkash)**
-My final-year project. A hyperlocal marketplace so electricians, plumbers and technicians in *non-metro* Pakistani cities can get found — no middleman, no metro-city bias.
-`React` `TypeScript` `Supabase` `RLS` `Realtime`
-
-</td>
-<td width="50%" valign="top">
-
-**💧 [AquaTrace](https://github.com/juwwad/aquatrace)**
-A Chrome extension that estimates the water footprint of your AI conversations — tracks ChatGPT, Gemini & Claude usage, renders it as a number you can't ignore.
-`JavaScript` `Chrome APIs` `Dev Tools`
-
-**🏪 B2B Wholesale Marketplace**
-Multi-tenant wholesale platform built for how Pakistani B2B trade actually works, not how a US SaaS template assumes it works.
-`React` `Vite` `Firebase` `Tailwind`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-*Every project above shares one filter: does this help someone outside a metro area do their work or stay safe? If not, I'm probably not building it.*
-
-</div>
-
 <br/>
-
-```bash
-juwwad@peshawar ~ % cat philosophy.md
-```
 
 > I don't build for the demo. I build for the electrician in a city that no SaaS company
 > has ever run a customer interview in, and the family checking WhatsApp before a flood
@@ -97,18 +52,6 @@ juwwad@peshawar ~ % cat philosophy.md
 </div>
 
 <br/>
-
-```bash
-juwwad@peshawar ~ % tail -f current_status.log
-```
-
-```
-[BUILD]  Rebuilding ailaan.dev — no-scroll hero, glassmorphism, Next.js
-[DEFEND] Prepping viva for MehnatKash (final-year project)
-[DEPLOY] Founder mode @ Axiom Inc. — rebuilding dashboards, mentoring 4 engineers
-[LEARN]  AI agents, MCPs, RAG pipelines — betting the next decade runs on this
-[IDLE]   never — ask my GitHub contribution graph
-```
 
 <br/>
 

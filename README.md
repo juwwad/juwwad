@@ -64,6 +64,8 @@ uptime:    3+ years | 15+ ships | 150+ ⭐ scattered across GitHub
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/juwwad)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawad@enlightlab.org)
 
+![drift](https://raw.githubusercontent.com/juwwad/juwwad/output/drift.svg)
+
 <sub>Response time: 24–48 business hours. Unless it's a flood alert bug — then it's now.</sub>
 
 </div>

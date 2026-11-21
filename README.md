@@ -8,11 +8,11 @@
 
 ```yaml
 name:      Jawad Ahmad
-role:      Full-Stack Developer, Founder @ Axiom Inc.
+role:      Full-Stack AI Engineer
 based_in:  Peshawar, Khyber Pakhtunkhwa, Pakistan  🇵🇰
-stack:     React · Next.js · TypeScript · Node.js · Supabase · Postgres
+stack:     Next.js · TypeScript · Node.js · Python · Postgres · Supabase · Vercel
 mission:   ship real tools for real people — not another metro-first app
-status:    finishing my final-year project, then back to production code
+status:    BS CS graduate (July 2026) — open to full-time AI & Full-Stack Engineering roles
 uptime:    3+ years | 15+ ships | 150+ ⭐ scattered across GitHub
 ```
 
